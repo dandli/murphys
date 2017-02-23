@@ -19,3 +19,7 @@ body {
   padding-top: 30px;
   padding-bottom: 70px;
 }
+
+.ui.middle.aligned.grid.container {
+  padding-top: 150px;
+}
